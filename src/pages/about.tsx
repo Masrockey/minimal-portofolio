@@ -4,7 +4,7 @@ import Navigasi from "./components/navigasi"
 export default function About() {
   return (
     <>
-     <Title />
+     <Title = 'About' />
     <Navigasi />
         <main>
             <h1 className="text-3xl font-bold underline">
